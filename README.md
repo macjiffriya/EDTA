@@ -2,9 +2,9 @@
 Drug-Target Affinity Prediction
 
 # To Create conda environment
-cd path/RapidDTA
+cd path/EDTA
 
-conda env create -f rapid_dta_conda.yml
+conda env create -f edta_conda.yml
 
-conda activate raipddta
+conda activate edta
 
