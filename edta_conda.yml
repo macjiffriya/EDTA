@@ -1,4 +1,4 @@
-name: raipddta
+name: edta
 channels:
   - defaults
   - conda-forge
