@@ -1,4 +1,4 @@
-# RapidDTA
+# EDTA
 Drug-Target Affinity Prediction
 
 # To Create conda environment
